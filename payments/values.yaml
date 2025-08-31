@@ -4,5 +4,5 @@ image:
   pullPolicy: IfNotPresent
 appMessage: Payments Service
 service: null
-  name: payments
+  servicename: payments
   port: 8080
