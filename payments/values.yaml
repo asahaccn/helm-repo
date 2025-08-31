@@ -1,8 +1,8 @@
+---
 image:
   repository: busybox
   tag: latest
   pullPolicy: IfNotPresent
-appMessage: "Payments Service"
-
+appMessage: Payments Service
 service:
-  port: 8080 # Or whatever port your service uses
+  port: 8080
